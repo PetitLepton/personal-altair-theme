@@ -1,6 +1,5 @@
 from pathlib import Path
 import pandas
-from IPython.display import display
 import altair
 from theme import Font, Colors, Palettes, AltairTheme
 
